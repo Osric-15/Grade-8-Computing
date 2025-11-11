@@ -1,0 +1,84 @@
+body{
+    background-image: url(/background\ picture.jpg);
+    background-size: cover;
+}
+h1{
+    color: rgb(6, 75, 75);
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.365);
+}
+h1:hover{
+    font-size: 65px;
+}
+.firstp{
+    background-color: rgba(255, 255, 255, 0.365);
+    font-size: 20px;
+    color: rgb(3, 45, 45);
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.firstp:hover{
+    font-size: 21px;
+ 
+}
+
+h2{
+    font-size: 40px;
+    background-color: rgba(255, 255, 255, 0.365);
+    color: rgb(3, 43, 43);
+    font-weight: 800;
+}
+
+h3{
+    font-size: 40px;
+    background-color: rgba(255, 255, 255, 0.365);
+    color: rgb(3, 43, 43);
+    font-weight: 800;
+}
+
+li{
+    font-size: 20px;
+    color: rgb(3, 45, 45);
+    background-color: rgba(255, 255, 255, 0.365);
+    font-weight: 500;
+    
+}
+li:hover{
+    font-weight: 600;
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+    color: rgb(3, 43, 43);
+    background-color: rgba(255, 255, 255, 0.365);
+    font-weight: 500;
+}
+p:hover{
+    font-size: 22px;
+}
+
+
+table{
+    background-color: rgba(255, 255, 255, 0.365);
+}
+
+tr{
+    font-size: 20px;
+    color: rgb(3, 43, 43);
+    font-weight: 500;
+}
+tr:hover{
+    font-size: 25px;
+    font-weight: bolder;
+}
+button{
+    font-size: 15px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+video{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
